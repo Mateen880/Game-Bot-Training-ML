@@ -47,3 +47,7 @@ A machine learning-powered bot trained to mimic player behavior in a 2D fighting
 
 ---
 
+## Link To Download Game
+
+https://drive.google.com/file/d/18SN8e_XqJFEPZ0wcWXQ8GnzuZk58cn-2/view?usp=sharing
+
